@@ -1,4 +1,4 @@
-/*kosmas dhmhtrios mppl17024 deyterh ergasia stin c */
+
 
 #include <stdio.h>
 
